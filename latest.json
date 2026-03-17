@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "See https://github.com/n8finch/stoicstudyapp-releases/releases/tag/v0.1.7 for details.",
-  "pub_date": "2026-03-17T22:27:54Z",
+  "version": "0.1.8",
+  "notes": "See https://github.com/n8finch/stoicstudyapp-releases/releases/tag/v0.1.8 for details.",
+  "pub_date": "2026-03-17T23:23:56Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "Make sure to include this into the signature field of your update server.",
-      "url": "https://github.com/n8finch/stoicstudyapp-releases/releases/download/v0.1.7/Stoic.Study_0.1.7_aarch64.app.tar.gz"
+      "url": "https://github.com/n8finch/stoicstudyapp-releases/releases/download/v0.1.8/Stoic.Study_0.1.8_aarch64.app.tar.gz"
     }
   }
 }
