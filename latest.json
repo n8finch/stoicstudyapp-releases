@@ -1,7 +1,7 @@
 {
   "version": "0.1.8",
   "notes": "See https://github.com/n8finch/stoicstudyapp-releases/releases/tag/v0.1.8 for details.",
-  "pub_date": "2026-03-17T23:23:56Z",
+  "pub_date": "2026-03-18T00:14:43Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "Make sure to include this into the signature field of your update server.",
