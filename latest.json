@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "See https://github.com/n8finch/stoicstudyapp-releases/releases/tag/v0.1.10 for details.",
-  "pub_date": "2026-03-19T02:12:34Z",
+  "version": "0.1.11",
+  "notes": "See https://github.com/n8finch/stoicstudyapp-releases/releases/tag/v0.1.11 for details.",
+  "pub_date": "2026-03-20T23:24:07Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV0RDUktZVEVpS3pMdW5CcHM1Zmg0QjBGb1hmRlYyK1I3anVkTmhFMEYzTWhyMEpBc1FYcHZVeXM1REFQR282azFKK2RaM2NoeUcwZ1ROMEtyeWptS1RqR1J6U3laZVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODg2MzU0CWZpbGU6U3RvaWMuU3R1ZHlfMC4xLjEwX2FhcmNoNjQuYXBwLnRhci5negpwTE9lbmw5SGdtZkxwc3JsRWdrbENYOHpUUktmWmVmZUhXanZiZFgxc2FxWmxiV1h4SDh1eTZZQjVHTmRha1NVSlc5d3liVlhOMXVidUM5RENUTmtEUT09Cg==",
-      "url": "https://github.com/n8finch/stoicstudyapp-releases/releases/download/v0.1.10/Stoic.Study_0.1.10_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV0RDUktZVEVpSzB0L2xYblZOS0VFeHYrWUFBU05CUXczNzJycHdKQ1VZbWJyMjN0OFlUR1hpVmZkOGFJdkVBV0hEKzIxdUZQd3JQZnBhaGJpR0pENmRxWGhIbFlzWlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MDQ5MDQ3CWZpbGU6U3RvaWMuU3R1ZHlfMC4xLjExX2FhcmNoNjQuYXBwLnRhci5negpLVnZJYmUwL2RVL05hblIzWkY5ZktKRjdsZ0xaR3R1aWkzM05zY2pNNWl5a08zTCs2aWRxK0VhS0hGdkp4cmhGMmgvS0VWYkxjMk84d0JVS2VvZGlDdz09Cg==",
+      "url": "https://github.com/n8finch/stoicstudyapp-releases/releases/download/v0.1.11/Stoic.Study_0.1.11_aarch64.app.tar.gz"
     }
   }
 }
